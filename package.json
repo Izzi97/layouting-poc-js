@@ -1,0 +1,19 @@
+{
+  "name": "@xmaek/layouting-poc",
+  "version": "1.0.0",
+  "description": "A makeshift/proof-of-concept JS-lib for generic layouting.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "layouting",
+    "js",
+    "hobby"
+  ],
+  "author": "xmaek",
+  "license": "GPL-3.0-or-later"
+}
